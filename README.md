@@ -1,19 +1,19 @@
-# [BlackPlus](https;//telegram.me/bIackplus) > [GitHub](https://GitHub.com/Mehdi-HS/BIackPlus) | [Site](http://BlackPlus.ir) |  [Channel](https://telegram.me/black_ch)
+# [maximus](https;//telegram.me/Xxmaximus_botxX) > [GitHub](https://GitHub.com/master00041/maximus) | [developer](https://telegram.me/pedaret) |  [founder](https://telegram.me/black_hc)
 * * *
 *New Bot For Manage Your SuperGroups.
 
 * * *
-# [BlackPlus](https://telegram.me/Blackplus) Uses "Anticrash" & "Autolaunch" To Be Active All The Time
+# [maximus](https://telegram.me/Xxmaximus_botxX) Uses "Anticrash" & "Autolaunch" To Be Active All The Time
 # آموزش نصب سروس
 1. کد زیر را در ترمینال وارد کنید.
 
-sudo apt-get update; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev autoconf -y --force-yes && git clone https://github.com/mehdi-hs/BlackPlus.git && cd BlackPlus && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev autoconf -y --force-yes && git clone https://github.com/master00041/maximus.git && cd maximus && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 
 2.بعد از چند دقیقه ربات از شما شماره ای میگیره که روبات روی اون نصب شه...
 بعد از وارد کردن شماره و وارد کردن کد در صورتی ربات در اکانت مورد نظر نصب شد ترمینال را ببندید و ترمینال جدید باز کنید
 سپس دستور زیر را بزنید...
 
-cd BlackPlus 
+cd maximus
 
 دقت کنید که در دستور بالا حرف سی و پی رو کپتال بنویسید که اررور نده
 بعد این کد رو بزنید
@@ -32,7 +32,7 @@ screen
 
 اول در ترمینال دستور زیر را تایپ کنید
 
-cd BlackPlus
+cd maximus
 
 سپس این دستور را وارد کنید.
 
@@ -350,8 +350,6 @@ Create a realm using the `!createrealm` command.
 
 # Our team!
 
-[MehdiHS](https://github.com/mehdi-hs) ([Telegram](https://telegram.me/MehdiHS))
+[detector](https://telegram.me/pedaret) ([black_hat](https://telegram.me/black_hc))
 
-###  Telegram channel :
 
-[@Black_CH](https://telegram.me/Black_CH)
